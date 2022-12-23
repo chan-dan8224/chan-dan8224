@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHANDAN
 - 👀 I’m interested in ...ROBOTICS and AI
-- 🌱 I’m currently learning ...ECE(1st-year)
+- 🌱 I’m currently learning ...ECE(1st-year PES UNIVERSITY)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...EMAIL:roboticsdude22@gmail.com
                          PHONE:8892043362
